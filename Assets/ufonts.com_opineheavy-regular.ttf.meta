@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 08ecca9bf5e90b94b9984f4095e55fa3
+timeCreated: 1491911236
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: OpineHeavy
+  fontNames:
+  - OpineHeavy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
